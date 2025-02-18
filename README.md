@@ -4,17 +4,17 @@ iROCKER is a leading provider of stand-up paddle boards (SUPs) with an e-commerc
 
 🏢 **Client**
 
-iROCKER 
-
+  iROCKER 
+                 
 📅 **Timeline**
 
-2021 - 2023
+  2021 - 2023
 
 🚀 **Challenges**
 
-• Data Security Vulnerabilities: Ensuring customer data protection during transactions.
+  • Data Security Vulnerabilities: Ensuring customer data protection during transactions.
 
-• Regression Testing Bottlenecks: Manual testing slowing down deployment cycles.
+  • Regression Testing Bottlenecks: Manual testing slowing down deployment cycles.
 
 • Performance Issues: Ensuring system sustainability under high user load, especially during peak sales periods.
 
@@ -28,21 +28,21 @@ iROCKER
 
 🛠️ **Solutions Implemented**
 
-1. **Manual & Security Testing**
+  1. Manual & Security Testing
 
-✔ Identified API vulnerabilities.
+      ✔ Identified API vulnerabilities.
 
-✔ Conducted end-to-end testing on the checkout and payment process.
+      ✔ Conducted end-to-end testing on the checkout and payment process.
 
-2. **Automation Testing with Selenium**
+2. Automation Testing with Selenium
 
-✔ Developed a Selenium WebDriver test suite covering:
+    ✔ Developed a Selenium WebDriver test suite covering:
 
-  • Login and user authentication
+      • Login and user authentication
 
-  • Product search and filtering
+      • Product search and filtering
   
-  • Add-to-cart and checkout processes
+      • Add-to-cart and checkout processes
 
 
 3. **Performance Testing with JMeter**
