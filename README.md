@@ -20,11 +20,11 @@ iROCKER is a leading provider of stand-up paddle boards (SUPs) with an e-commerc
 
 🔍 **Scope of Work**
 
-• Order Management System: Identified and resolved flaws that exposed customer orders and personal details.
+  • Order Management System: Identified and resolved flaws that exposed customer orders and personal details.
 
-• Test Automation for Major Flows: Developed and executed Selenium-based automated test scripts for checkout, order placement, and user authentication.
+  • Test Automation for Major Flows: Developed and executed Selenium-based automated test scripts for checkout, order placement, and user authentication.
 
-• Performance Testing: Assessed system response under high load using JMeter to ensure smooth performance during peak times.
+  • Performance Testing: Assessed system response under high load using JMeter to ensure smooth performance during peak times.
 
 🛠️ **Solutions Implemented**
 
@@ -47,17 +47,17 @@ iROCKER is a leading provider of stand-up paddle boards (SUPs) with an e-commerc
 
 3. **Performance Testing with JMeter**
 
-✔ Simulated 10,000+ concurrent users to evaluate system response times.
+   ✔ Simulated 10,000+ concurrent users to evaluate system response times.
 
-✔ Identified bottlenecks in order processing and optimized database queries.
+   ✔ Identified bottlenecks in order processing and optimized database queries.
 
-✔ Ensured 95% uptime during high traffic sales events.
+   ✔ Ensured 95% uptime during high traffic sales events.
 
 🎯 **Results**
 
-✅ Faster Testing & Deployment: Automated test suite reduced manual testing time by 60%.
+  ✅ Faster Testing & Deployment: Automated test suite reduced manual testing time by 60%.
 
-✅ Improved System Performance: Optimized infrastructure to handle peak load without downtime.
+  ✅ Improved System Performance: Optimized infrastructure to handle peak load without downtime.
 
-✅ Higher Customer Trust
+  ✅ Higher Customer Trust
 
