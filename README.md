@@ -12,11 +12,11 @@ iROCKER is a leading provider of stand-up paddle boards (SUPs) with an e-commerc
 
 🚀 **Challenges**
 
-  • Data Security Vulnerabilities: Ensuring customer data protection during transactions.
+  •   Data Security Vulnerabilities: Ensuring customer data protection during transactions.
 
-  • Regression Testing Bottlenecks: Manual testing slowing down deployment cycles.
+  •   Regression Testing Bottlenecks: Manual testing slowing down deployment cycles.
 
-• Performance Issues: Ensuring system sustainability under high user load, especially during peak sales periods.
+  •   Performance Issues: Ensuring system sustainability under high user load, especially during peak sales periods.
 
 🔍 **Scope of Work**
 
@@ -38,7 +38,7 @@ iROCKER is a leading provider of stand-up paddle boards (SUPs) with an e-commerc
 
     ✔ Developed a Selenium WebDriver test suite covering:
 
-      • Login and user authentication
+      ◦ Login and user authentication
 
       • Product search and filtering
   
